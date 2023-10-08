@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "server side api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pakkeav/restAPI.git"
+  },
+  "author": "Patrick Keaveney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pakkeav/restAPI/issues"
+  },
+  "homepage": "https://github.com/Pakkeav/restAPI#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
